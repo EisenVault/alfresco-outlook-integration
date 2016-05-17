@@ -1,0 +1,4 @@
+com/eisenvault/service/AlfrescoLoginHelper.class
+com/eisenvault/util/AlfrescoConnector.class
+com/eisenvault/servlet/AlfrescoLogin.class
+com/eisenvault/model/User.class
